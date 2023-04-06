@@ -1,4 +1,4 @@
-# 4. filterAge
+# filterAge
 
 - 접근 방법 : filter를 이용히여 새로운 배열 만들기.
 
