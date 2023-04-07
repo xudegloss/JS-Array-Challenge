@@ -1,6 +1,6 @@
 # recommendAdd
 
--
+- 이중 forEach를 이용하여 includes를 사용하고 싶었으나, 너무 복잡해서 다른 방법을 찾고 있다.
 
 ## 설명
 
